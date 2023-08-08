@@ -81,5 +81,7 @@
     <a href="https://github.com/MankiratSingh1315" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=MankiratSingh1315&show_icons=true&theme=gotham" width="50%" ></a>
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MankiratSingh1315&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=gradient&properties=background" align="center"/>
+    <br/><br/>
+    <figure><embed src="https://wakatime.com/share/@MankiratSingh1315/52f79d2a-3491-4721-8223-1bede0f1ee1c.svg"></embed></figure>
   </div>
 </div>
