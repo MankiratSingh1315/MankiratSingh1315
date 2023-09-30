@@ -88,4 +88,7 @@
     <br/><br/>
     <figure><embed src="https://wakatime.com/share/@MankiratSingh1315/52f79d2a-3491-4721-8223-1bede0f1ee1c.svg"></embed></figure>
   </div>
+  
+  [![@MankiratSingh1315's Holopin board](https://holopin.io/api/user/board?user=MankiratSingh1315)](https://holopin.io/@MankiratSingh1315)
+  
 </div>
