@@ -86,9 +86,11 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MankiratSingh1315&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=gradient&properties=background" align="center"/>
     <br/><br/>
-    <figure><embed src="https://wakatime.com/share/@MankiratSingh1315/52f79d2a-3491-4721-8223-1bede0f1ee1c.svg"></embed></figure>
+   <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/>
   </div>
   
+    
+  [![Mankirat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MankiratSingh1315&theme=tokyo-night)](https://github.com/MankiratSingh1315)
   [![@MankiratSingh1315's Holopin board](https://holopin.io/api/user/board?user=MankiratSingh1315)](https://holopin.io/@MankiratSingh1315)
   
 </div>
