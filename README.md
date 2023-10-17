@@ -83,10 +83,8 @@
   <div>
     <h2>Let's get to some stats 😁</h2>
     <p align="center">
-      <div style="display:flex;box-sizing:border-box;">
     <a href="https://github.com/MankiratSingh1315" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=MankiratSingh1315&show_icons=true&theme=gotham" height="200px" ></a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MankiratSingh1315&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=gradient&properties=background" height="200px"/>
-      </div>
   </p>
     <p align="center">
    <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/>
