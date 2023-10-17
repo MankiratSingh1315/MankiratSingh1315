@@ -90,7 +90,7 @@
   </p>
     <p align="center">
    <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/>
-       <a href="https://github.com/MankiratSingh1315"><img src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315" alt="MankiratSingh1315" /></a> </p>
+       <a href="https://github.com/MankiratSingh1315"><img src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315&theme=onedark" alt="MankiratSingh1315" /></a> </p>
   </div>
 
     
