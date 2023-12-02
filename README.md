@@ -2,7 +2,7 @@
 <h2>A Computer Engineering sophomore at <a href="https://www.thapar.edu">TIET, Patiala</a>, and I am very interested to learn about new technologies.</h2>
 <div style="display:inline-block">
   <img src="https://komarev.com/ghpvc/?username=MankiratSingh1315&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Mankirat's profile views" />
-  <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Total time coded since May 8 2023" /></a>
+  <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Total time coded since May 8 2023" /></a></br>
   <a href="https://www.linkedin.com/in/mankiratsingh1315/" style="decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
