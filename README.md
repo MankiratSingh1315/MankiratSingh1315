@@ -87,9 +87,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MankiratSingh1315&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=gradient&properties=background" height="200px"/>
   </p>
     <p align="center">
-   <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/>
        <a href="https://github.com/MankiratSingh1315"><img height="auto" align="center" alt="Mankirat's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315&row=1&column=7&theme=darkhub&margin-w=15e" /></a> </p>
+         src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315&row=1&column=7&theme=darkhub&margin-w=15e" /></a> 
+   <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/></p>
   </div>
 
     
