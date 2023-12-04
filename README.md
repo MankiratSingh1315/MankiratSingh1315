@@ -88,7 +88,8 @@
   </p>
     <p align="center">
    <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/>
-       <a href="https://github.com/MankiratSingh1315"><img src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315&theme=onedark" alt="MankiratSingh1315" /></a> </p>
+       <a href="https://github.com/MankiratSingh1315"><img height="auto" align="center" alt="Mankirat's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315&row=1&column=7&theme=darkhub&margin-w=15e" /></a> </p>
   </div>
 
     
