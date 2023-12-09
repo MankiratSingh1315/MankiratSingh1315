@@ -13,8 +13,8 @@
         {
           "background": "#A4036F",
           "foreground": "#1d1626",
-          "powerline_symbol": "\ue0b0",
-          "style": "powerline",
+          "leading_diamond": "\ue0b6",
+          "style": "diamond",
           "template": " \uf26c  {{ if .SSHSession }}\ueba9  {{ end }}{{ .UserName }}@{{ .HostName }} ",
           "type": "session"
         },
@@ -78,8 +78,9 @@
           "properties": {
             "time_format": "3:04 PM"
           },
-          "style": "powerline",
+          "style": "diamond",
           "template": " \uf017 {{ .CurrentDate | date .Format }} ",
+          "trailing_diamond": "\ue0b4",
           "type": "time"
         }
       ],
