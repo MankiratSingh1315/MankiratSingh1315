@@ -89,11 +89,9 @@
     <p align="center">
        <a href="https://github.com/MankiratSingh1315"><img height="auto" align="center" alt="Mankirat's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=MankiratSingh1315&row=1&column=7&theme=darkhub&margin-w=15e" /></a> 
-   <img src="https://wakatime.com/share/@MankiratSingh1315/c00110c6-85b3-477d-b445-1a838181bdb4.svg" width="650px"/></p>
   </div>
 
     
   [![Mankirat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MankiratSingh1315&theme=tokyo-night)](https://github.com/MankiratSingh1315)
-  [![@MankiratSingh1315's Holopin board](https://holopin.io/api/user/board?user=MankiratSingh1315)](https://holopin.io/@MankiratSingh1315)
   
 </div>
