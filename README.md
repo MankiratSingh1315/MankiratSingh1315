@@ -83,8 +83,12 @@
   <div>
     <h2>Let's get to some stats 😁</h2>
     <p align="center">
-    <a href="https://github.com/MankiratSingh1315" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=MankiratSingh1315&show_icons=true&theme=gotham" height="200px" ></a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MankiratSingh1315&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=gradient&properties=background" height="200px"/>
+      <table>
+        <tr>
+      <td><a href="https://github.com/MankiratSingh1315" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=MankiratSingh1315&show_icons=true&theme=gotham"></a></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MankiratSingh1315&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&type=svg&background-type=gradient&properties=background"/></td>
+        </tr>
+      </table>
   </p>
     <p align="center">
        <a href="https://github.com/MankiratSingh1315"><img height="auto" align="center" alt="Mankirat's github stats" 
