@@ -62,6 +62,9 @@
     <a href="https://www.python.org/">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/5a76893d-54b8-4e4b-95c1-2453dffb6ea6" height=45/>
     </a>&ensp;
+    <a href="https://flask.palletsprojects.com/">
+      <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/4bb88e8c-acd6-481e-b3aa-a62dc65e879d" height=45/>
+    </a>&ensp;
     <a href="https://www.react.dev/">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/53bfb558-774b-4d2b-8a01-da06f01f5998" height=45/>
     </a>&ensp;
