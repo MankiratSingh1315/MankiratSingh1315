@@ -29,6 +29,9 @@
 <div>
   <h2>Technologies and tools🤖</h2>
   <div style="display:inline-block">
+    <a href="https://archlinux.org/" title="I Use Arch BTW :D">
+      <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/d35346d7-4226-4eff-97a9-7a8cdc526291" height=45/>
+    </a>
     <a href="https://www.w3schools.com/c/c_intro.php">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/cd259c7c-7d7d-47c0-b83a-400743e22b6e" height=45/>
     </a>&ensp;	
