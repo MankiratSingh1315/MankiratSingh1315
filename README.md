@@ -21,7 +21,7 @@
 
 ## 🌱 Something About Me:
 - 🧑‍💻 I'm learning Machine Learning and diving deeper into DSA :).
-- 🚀 Open-source contributor | Technical Head, MLSC TIET.
+- 🚀 Open-source contributor | Technical Head, [MLSC TIET](https://mlsctiet.com/).
 - 🎨 I have a creative side: **video editing** and **graphic design**.
 
 ---
