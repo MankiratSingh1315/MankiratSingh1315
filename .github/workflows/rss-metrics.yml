@@ -17,5 +17,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://blog.mankiratsingh.com/index.xml
+          plugin_rss_source: http://blog.mankiratsingh.com/index.xml
           plugin_rss_limit: 4
